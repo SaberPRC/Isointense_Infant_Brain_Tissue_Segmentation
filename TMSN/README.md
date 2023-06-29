@@ -42,12 +42,6 @@ The code is released for academic research use only. For commercial use or busin
 
 * Script for training using SPGAN
    ```shell
-  python train.py --save_path SPGAN --GA2B SPADEGenerator --GB2A UNetGenerator --resume -1 --batch_size 1 --SegLoss True  
-  ```
-   
-* Script for training using CycleGAN
-   ```shell
-  python train.py --save_path SPGAN --GA2B UNetGenerator --GB2A UNetGenerator --resume -1 --batch_size 1 --SegLoss False  
-  ```
-  
+  python trainSegNetMSAtt.py --platform bme --file_list file_list_06.csv --channel 2 --save_path SegNetMSAttReal2 --batch_size 4  
+   ```
 ***
