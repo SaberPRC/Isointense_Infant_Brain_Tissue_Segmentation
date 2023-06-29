@@ -1,0 +1,53 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="torch" />
+            <item index="1" class="java.lang.String" itemvalue="dill" />
+            <item index="2" class="java.lang.String" itemvalue="torchvision" />
+            <item index="3" class="java.lang.String" itemvalue="dominate" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="skimage.measure" />
+          <option value="scipy.ndimage.zoom" />
+          <option value="IPython.embed" />
+          <option value="tqdm.tqdm" />
+          <option value="torch.utils.data.DataLoader" />
+          <option value="torch.utils.data.Dataset" />
+          <option value="easydict.EasyDict" />
+          <option value="torch.utils.tensorboard.SummaryWriter" />
+          <option value="skimage.segmentation.find_boundaries" />
+          <option value="torch.nn.utils.*" />
+          <option value="SPADE_Syn.network.network.basic" />
+          <option value="torch.Tensor" />
+          <option value="torch.einsum" />
+          <option value="skimage.*" />
+          <option value="scipy.ndimage.distance_transform_edt" />
+          <option value="torch.autograd.Variable" />
+          <option value="torch.nn.functional" />
+          <option value="lacunaSeg.trainSegDec._get_location" />
+          <option value="torch.optim" />
+          <option value="torch.utils.data" />
+          <option value="torchvision.*" />
+          <option value="torch.*" />
+          <option value="CMBSeg.network.SegNetRefine.network" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
