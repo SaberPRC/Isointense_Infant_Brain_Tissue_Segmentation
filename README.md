@@ -37,6 +37,8 @@ For reimplement the results as shown in this paper, you need prepare the data fr
 ## Training for SPAGN
 > Please refer to [SPGAN/README](./SPGAN/README.md)
 
+This model is mainly refers to [CycleGAN](https://github.com/junyanz/CycleGAN) and [GauGAN](https://github.com/NVlabs/SPADE)
+
 
 ## Training for TMSN
 > Please refer to [TMSN/README](./TMSN/README.md)
