@@ -1,7 +1,7 @@
 # Script for train the SPGAN
->This model is mainly refers to [CycleGAN](https://github.com/junyanz/CycleGAN) and [GauGAN](https://github.com/NVlabs/SPADE)
+> This model is mainly refers to [CycleGAN](https://github.com/junyanz/CycleGAN) and [GauGAN](https://github.com/NVlabs/SPADE)
 > 
-Repo for train the bi-directional synthesize model (SPGAN) to transfer apperance between isointense infant brain and adult-like infant brain
+> Repo for train the bi-directional synthesize model (SPGAN) to transfer apperance between isointense infant brain and adult-like infant brain
 
 ***
 <font color=gray size=3>Adult-like Phase and Multi-scale Assistance for Isointense Infant Brain Tissue Segmentation</font>
