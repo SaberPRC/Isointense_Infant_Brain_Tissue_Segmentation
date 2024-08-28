@@ -22,6 +22,19 @@ The code is released for academic research use only. For commercial use or busin
 
 ***
 
+## Intensity distributions
+Intensity distributions of GM and WM at isointense and adult-like phase T1w brain data
+![](./Figures/Intensity_Distribution.jpg "intensity distribution")
+
+## Framework
+Main framework of proposed structure-aware isointense brain tissue segmentation framework
+![](./Figures/pipeline.jpg "intensity distribution")
+
+Detailed illustration for MMASN 
+![](./Figures/framework.jpg "intensity distribution")
+
+
+
 ## Usage
 
 As the code is employed in other research projects, this repository has been populated solely with the compiled code and the pre-trained model, as referenced in our JBHI paper.
