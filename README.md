@@ -9,7 +9,7 @@ Contact: JiamengLiu.PRC@gmail.com
 ***
 <font color=gray size=2>"Adult-like Phase and Multi-scale Assistance for Isointense Infant Brain Tissue Segmentation", [**_MICCAI_**](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_6) 2023, [Jiameng Liu, Feihong Liu, Kaicong Sun, Mianxin Liu, Yuhang Sun, Yuyan Ge, and Dinggang Shen]</font>
 
-<font color=gray size=2>"Structure-aware Brain Tissue Segmentation for Isointense Infant MRI Data Using Multi-phase Multi-scale Assistance Network", [**_JBHI_**](https://ieeexplore.ieee.org/abstract/document/10684683), 2024, [Jiameng Liu, Feihong Liu, Dong Nie, Yuning Gu, Yuhang Sun, and Dinggang Shen] </font> 
+<font color=gray size=2>"Structure-aware Brain Tissue Segmentation for Isointense Infant MRI Data Using Multi-phase Multi-scale Assistance Network", [**_JBHI_**](https://ieeexplore.ieee.org/abstract/document/10684683) 2024, [Jiameng Liu, Feihong Liu, Dong Nie, Yuning Gu, Yuhang Sun, and Dinggang Shen] </font> 
 
 ***
 
